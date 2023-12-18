@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1E349E5F-E088-4CF3-99DD-7555E8BCA216}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HashSetChaining.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Hashing.Tests.cs" />
+      <File FileName="HashSet.cs" />
+      <File FileName="HashSetChaining.cs" Line="62" Column="1" />
+      <File FileName="HashSetLinearProbing.cs" Line="18" Column="28" />
+      <File FileName="../../../EKSAMEN2023-main/M13_hashing/Hashing/HashSetLinearProbing.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hashing" expanded="True">
+            <Node name="hashing" expanded="True">
+              <Node name="HashSetChaining.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.hashing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

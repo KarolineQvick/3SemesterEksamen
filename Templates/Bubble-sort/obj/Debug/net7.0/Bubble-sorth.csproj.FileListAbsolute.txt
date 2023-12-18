@@ -1,0 +1,15 @@
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/bin/Debug/net7.0/Bubble-sorth
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/bin/Debug/net7.0/Bubble-sorth.deps.json
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/bin/Debug/net7.0/Bubble-sorth.runtimeconfig.json
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/bin/Debug/net7.0/Bubble-sorth.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/bin/Debug/net7.0/Bubble-sorth.pdb
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/Bubble-sorth.csproj.AssemblyReference.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/Bubble-sorth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/Bubble-sorth.AssemblyInfoInputs.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/Bubble-sorth.AssemblyInfo.cs
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/Bubble-sorth.csproj.CoreCompileInputs.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/Bubble-sorth.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/refint/Bubble-sorth.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/Bubble-sorth.pdb
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/Bubble-sorth.genruntimeconfig.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/Bubble-sort/obj/Debug/net7.0/ref/Bubble-sorth.dll

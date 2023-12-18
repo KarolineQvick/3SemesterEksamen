@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{A8BE39FD-FD38-4A17-A840-5477071B73AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.list PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UserLinkedList.cs">
+    <Files>
+      <File FileName="../../../../Downloads/EKSAMEN2023-main/M13_hashing/Hashing/HashSetChaining.cs" Line="186" Column="4" />
+      <File FileName="User.cs" Line="1" Column="1" />
+      <File FileName="UserLinkedList.cs" Line="11" Column="7" />
+      <File FileName="UserLinkedList.Tests.cs" Line="1" Column="1" />
+      <File FileName="SortedUserLinkedList.cs" Line="22" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="list" expanded="True">
+            <Node name="list" expanded="True">
+              <Node name="UserLinkedList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

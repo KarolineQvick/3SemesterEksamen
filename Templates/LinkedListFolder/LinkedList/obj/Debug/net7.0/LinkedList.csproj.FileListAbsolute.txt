@@ -1,0 +1,15 @@
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/bin/Debug/net7.0/LinkedList
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/bin/Debug/net7.0/LinkedList.deps.json
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/bin/Debug/net7.0/LinkedList.runtimeconfig.json
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/bin/Debug/net7.0/LinkedList.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/bin/Debug/net7.0/LinkedList.pdb
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/LinkedList.csproj.AssemblyReference.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/LinkedList.AssemblyInfoInputs.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/LinkedList.AssemblyInfo.cs
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/LinkedList.csproj.CoreCompileInputs.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/LinkedList.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/refint/LinkedList.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/LinkedList.pdb
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/LinkedList.genruntimeconfig.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/LinkedList/obj/Debug/net7.0/ref/LinkedList.dll

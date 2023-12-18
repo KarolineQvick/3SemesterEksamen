@@ -1,0 +1,15 @@
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/bin/Debug/net7.0/SelectionSort
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/bin/Debug/net7.0/SelectionSort.deps.json
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/bin/Debug/net7.0/SelectionSort.runtimeconfig.json
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/bin/Debug/net7.0/SelectionSort.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/bin/Debug/net7.0/SelectionSort.pdb
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/SelectionSort.csproj.AssemblyReference.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/SelectionSort.AssemblyInfoInputs.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/SelectionSort.AssemblyInfo.cs
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/SelectionSort.csproj.CoreCompileInputs.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/SelectionSort.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/refint/SelectionSort.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/SelectionSort.pdb
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/SelectionSort.genruntimeconfig.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/Templates/SelectionSort/obj/Debug/net7.0/ref/SelectionSort.dll

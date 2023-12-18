@@ -1,0 +1,15 @@
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/M1_rekursive_funktioner.csproj.AssemblyReference.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/M1_rekursive_funktioner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/M1_rekursive_funktioner.AssemblyInfoInputs.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/M1_rekursive_funktioner.AssemblyInfo.cs
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/M1_rekursive_funktioner.csproj.CoreCompileInputs.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/bin/Debug/net7.0/M1_rekursive_funktioner
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/bin/Debug/net7.0/M1_rekursive_funktioner.deps.json
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/bin/Debug/net7.0/M1_rekursive_funktioner.runtimeconfig.json
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/bin/Debug/net7.0/M1_rekursive_funktioner.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/bin/Debug/net7.0/M1_rekursive_funktioner.pdb
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/M1_rekursive_funktioner.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/refint/M1_rekursive_funktioner.dll
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/M1_rekursive_funktioner.pdb
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/M1_rekursive_funktioner.genruntimeconfig.cache
+/Users/rasmusmeldgaardjensen/Desktop/Eksamen-2023/Programmering/M1_rekursive_funktioner/M1_rekursive_funktioner/obj/Debug/net7.0/ref/M1_rekursive_funktioner.dll
